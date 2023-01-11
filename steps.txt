@@ -1,0 +1,3 @@
+1- create the Models, the parent should be created first.
+2- Create the database then migrated.
+3- link the database with the project.
