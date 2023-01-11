@@ -1,3 +1,7 @@
 1- create the Models, the parent should be created first.
 2- Create the database then migrated.
 3- link the database with the project.
+4- create the resource routes.
+5- specify which data we need to pass from the user to database in Model.
+6- create HTML folders and files.
+7- moving to controller to write some logic.
